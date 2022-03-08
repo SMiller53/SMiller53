@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SMiller53
 - 👀 I’m interested in webpage development and maybe game development down the line
-- 🌱 I’m currently learning HTML, CSS, JS and PHP
+- 🌱 I’m currently learning HTML, CSS, JS,JSON, MYSQL and PHP
 - 💞️ I’m not looking to collaborate.
 - 📫 How to reach me ...IG
 
