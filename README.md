@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SMiller53
 - 👀 I’m interested in fullStack development and maybe game development down the line.
-- 🌱 I’m currently learning HTML, CSS, JS, JSON, NodeJS, MongoDB. 
-- 💞️ I’m not looking to collaborate.
-- 📫 How to reach me ...IG
+- 🌱 I’m currently learning HTML, CSS, JS, NodeJS, MongoDB, VUE, Flutter. 
+
 
 <!---
 SMiller53/SMiller53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
