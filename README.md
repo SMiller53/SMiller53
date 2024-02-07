@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SMiller53
 - 👀 I’m interested in fullStack development and maybe game development down the line.
-- 🌱 I’m currently learning HTML, CSS, JS, NodeJS, MongoDB, VUE, Flutter. 
+- 🌱 I’m currently learning HTML, CSS, JS, NodeJS, MongoDB,
+- I have intermediate experience with VUE.js
 
 
 <!---
